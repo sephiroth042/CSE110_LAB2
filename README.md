@@ -1,2 +1,3 @@
+[Lab2.pdf](https://github.com/sephiroth042/CSE110_LAB2/files/7070056/Lab2.pdf)
 # CSE110_LAB2
 STRINGS AND INTRO TO IF/ELSE STATEMENTS
